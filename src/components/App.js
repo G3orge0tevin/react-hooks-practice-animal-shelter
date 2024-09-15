@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-
+import data from "../db.json"
 import Filters from "./Filters";
 import PetBrowser from "./PetBrowser";
-import data from "./db.json"
+
 
 
 function App() {
